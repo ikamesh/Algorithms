@@ -1,5 +1,7 @@
 import random 
 
+"""This is file for generating input list for algorithms"""
+
 #input method1 -- filling list with try-except
 def infinite_num_list():
     print("""
@@ -32,7 +34,6 @@ def finite_num_list():
     return num_list
 
 
-
 # Input Method3 -- Generating num with random
 def random_num_list_generator():
     num_of_element = int(input("\nHow many num in list you want to generate : "))
@@ -45,6 +46,7 @@ def random_num_list_generator():
         print("\n", num_list)
     
     return num_list
+
 
 if __name__ == "__main__":
     infinite_num_list()
