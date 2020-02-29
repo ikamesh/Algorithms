@@ -1,0 +1,32 @@
+Phase - 1 
+
+1. Selection Sort
+2. Bubble Sort
+3. Recursive Bubble Sort
+4. Insertion Sort
+5. Recursive Insertion Sort
+6. Merge Sort
+7. Iterative Merge Sort
+8. Quick Sort
+9. Iterative Quick Sort
+10.Heap Sort
+
+Phase - 2
+
+1. Counting Sort
+2. Radix Sort
+3. Bucket Sort
+4. ShellSort
+5. TimSort
+6. Comb Sort
+7. Pigeonhole Sort
+
+Phase - 3
+1. Cycle Sort
+2. Cocktail Sort
+3. Bitonic Sort
+4. Pancake sorting
+5. Binary Insertion Sort
+6. BogoSort or Permutation Sort
+7. Gnome Sort
+8. Sleep Sort – The King of Laziness / Sorting while Sleeping
